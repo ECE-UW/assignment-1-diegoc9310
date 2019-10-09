@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Marking #9: StudentInfo(repo='assignment-1-diegoc9310', first='FIRST_NAME', last='LAST_NAME', watiam='WATIAM_ID', studentid='STUDENT_ID', email='email')
+=======
+Marking #66: StudentInfo(repo='assignment-1-diegoc9310', first='FIRST_NAME', last='LAST_NAME', watiam='WATIAM_ID', studentid='STUDENT_ID', email='email')
+>>>>>>> cf6fad8a16bf5a35d588bf3e2553d8a45028ada6
 Mark = 0
 
 Running test 0:	 +20
